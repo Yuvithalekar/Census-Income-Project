@@ -53,7 +53,3 @@ a) Build a random forest model as follows:
 - Build a random forest model where the dependent variable is “X”(Yearly Income) and the rest of the variables as independent variables and number of trees as 300.
 - Predict values on the test set
 - Build a confusion matrix and calculate the accuracy
-
-## 7. For this problem, use the population dataset, and perform the following:
-1)	EDA on the time series to find trends and seasonality.
-2) Forecast the population on the given dataset for the next 6 months. 
